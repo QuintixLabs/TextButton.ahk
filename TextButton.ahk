@@ -3,7 +3,7 @@
 /************************************************************************
  * @description Text-based button library for AutoHotkey v2 with hover
  *              and click effects, customizable colors, and safe timers.
- * @file TextButtonLibrary.ahk
+ * @file TextButton.ahk
  * @link https://github.com/QuintixLabs/TextButton.ahk
  * @author QuintixLabs / fr0st
  * @date 10/18/2025
