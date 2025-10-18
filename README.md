@@ -8,7 +8,7 @@ A simple text button library for **AutoHotkey v2**
 
 ## Usage
 
-1. Download `TextButton.ahk`, place it in your project folder, include it in your script with `#Include TextButton.ahk`, and remove the example GUI from the library.  
+1. Download `TextButton.ahk`, place it in your project folder, include it in your script with `#Include TextButton.ahk`, and [remove the example GUI from the library](https://github.com/QuintixLabs/TextButton.ahk/blob/master/TextButton.ahk#L96C1-L119C55).  
 2. Or just copy this code into your script:
 
 <details>
