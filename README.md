@@ -1,5 +1,5 @@
 # TextButton.ahk
-A simple text button library for AutoHotkey v2
+A simple text button library for **AutoHotkey v2**
 
 
 ## Showcase
@@ -111,8 +111,9 @@ ButtonWndProc(hWnd, uMsg, wParam, lParam, uIdSubclass, dwRefData) {
 
 </details>
 
-## Examples
 
-You can see how this library is used at this line
+3. If you want to create your own buttons, check how its done in the example GUI section of the library:
+- [TextButton.ahk Example (lines 96–119)](https://github.com/QuintixLabs/TextButton.ahk/blob/master/TextButton.ahk#L96C1-L119C55)
+
 
 
